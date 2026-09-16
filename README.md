@@ -145,10 +145,12 @@ I actively document my journey through enterprise infrastructure and Linux envir
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rachel-Huthwaite&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rachel's GitHub Stats" />
+  <!-- Reliable Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachel-Huthwaite&layout=compact&theme=tokyonight&hide_border=true" alt="Rachel's Most Used Languages" />
 
   <br /><br />
 
+  <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=Rachel-Huthwaite&theme=tokyonight&hide_border=true" alt="Rachel's Streak Stats" />
 
 </div>
