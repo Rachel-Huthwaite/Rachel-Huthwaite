@@ -1,20 +1,24 @@
 <div align="center">
 
-  <!-- Fixed Animated Developer Vector Graphic -->
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-type-linux.svg" width="90" alt="Linux Icon" />
-  <br />
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--coding-programmer-software-development-pack-business-illustrations-4389916.png?f=webp&w=300" width="260" alt="Developer Coding" />
+  <!-- Responsive Capsule Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Rachel%20Huthwaite&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Design-Minded%20Developer&descSize=16&descAlignY=70">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=200&section=header&text=Rachel%20Huthwaite&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Design-Minded%20Developer&descSize=16&descAlignY=70">
+    <img alt="Rachel Huthwaite Header" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Rachel%20Huthwaite&fontSize=50&fontColor=ffffff">
+  </picture>
 
   <br /><br />
 
   <!-- Animated Typing Title -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rachel+Huthwaite+👋;Software+Engineering+Student...;Wait%2C+Full-Stack+Developer...;UI%2FUX-Minded+Engineer...;Linux+%26+Red+Hat+Enthusiast!;" alt="Typing Title Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Engineering+Student...;Wait%2C+Full-Stack+Developer...;UI%2FUX-Minded+Engineer...;Linux+%26+Red+Hat+Enthusiast!;" alt="Typing Title Animation" />
   </a>
 
   <p align="center">
     <i>Passionate developer bridging backend architecture, Linux systems, and intuitive user experiences.</i>
   </p>
+
+  <br />
 
   <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/rachel-huthwaite-952aa2136">
