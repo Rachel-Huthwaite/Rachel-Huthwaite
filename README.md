@@ -2,8 +2,8 @@
 
   <!-- Responsive Capsule Banner -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Rachel%20Huthwaite&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descSize=16&descAlignY=70">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=200&section=header&text=Rachel%20Huthwaite&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descSize=16&descAlignY=70">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Rachel%20Huthwaite&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Design-Minded%20Developer&descSize=16&descAlignY=70">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=200&section=header&text=Rachel%20Huthwaite&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Design-Minded%20Developer&descSize=16&descAlignY=70">
     <img alt="Rachel Huthwaite Header" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Rachel%20Huthwaite&fontSize=50&fontColor=ffffff">
   </picture>
 
@@ -11,11 +11,11 @@
 
   <!-- Animated Typing Title -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Engineering+Student...;Full-Stack+%26+Mobile+Developer...;Python+%2B+Java+%2B+Flutter...;Linux+%26+Red+Hat+Enthusiast!;" alt="Typing Title Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Engineering+Student...;Wait%2C+Full-Stack+Developer...;UI%2FUX-Minded+Engineer...;Linux+%26+Red+Hat+Enthusiast!;" alt="Typing Title Animation" />
   </a>
 
   <p align="center">
-    <i>Full-stack developer building backend systems, mobile apps, and intuitive user experiences.</i>
+    <i>Passionate developer bridging backend architecture, Linux systems, and intuitive user experiences.</i>
   </p>
 
   <br />
@@ -62,6 +62,8 @@ I actively document my journey through enterprise infrastructure and Linux envir
 | Resource / Repository | Focus Area | Description |
 | :--- | :--- | :--- |
 | 🔴 **[Red Hat Linux RH024](https://github.com/Rachel-Huthwaite/redhat-linux-RH024)** | Linux SysAdmin & RH024 | RH024 course labs, system configuration notes, and CLI practice. |
+
+
 ---
 
 ### 💻 Tech Stack & Tools
@@ -77,6 +79,7 @@ I actively document my journey through enterprise infrastructure and Linux envir
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0075BA?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
 <br /><br />
@@ -146,4 +149,12 @@ I actively document my journey through enterprise infrastructure and Linux envir
 
 <div align="center">
 
-  <!-- keep your existing stats/streak widgets here, unchanged -->
+  <!-- Top Languages Card (Updated Endpoint) -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rachel-Huthwaite&layout=compact&theme=tokyonight&hide_border=true" alt="Rachel's Most Used Languages" />
+
+  <br /><br />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Rachel-Huthwaite&theme=tokyonight&hide_border=true" alt="Rachel's Streak Stats" />
+
+</div>
