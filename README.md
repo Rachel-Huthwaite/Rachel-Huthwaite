@@ -147,7 +147,7 @@ I document my journey through learning and create hands-on material to help othe
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">💸 Fundazaka</h3>
-      <p align="center"><i>Contributed Project</i></p>
+      <p align="center">
       <p align="center">A mobile budgeting app for people with irregular income, built with a friend for the FNB App of the Year Hackathon. Built with React Native, Expo Router, and Supabase auth, with local persistence, a guided onboarding tour, and multi-language support.</p>
       <p align="center">
         <a href="https://github.com/Rachel-Huthwaite/fundazaka"><code>View Repository</code></a>
