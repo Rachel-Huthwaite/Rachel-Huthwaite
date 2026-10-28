@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
   <!-- Responsive Capsule Banner -->
@@ -32,15 +34,23 @@
 
 <br />
 
+
+
 ---
 
 ### 🎨 About Me
 
-I am a **Software Engineering Student at WeThinkCode_** focused on building full-stack web applications and cross-platform mobile experiences. I started with Python before moving into Java for backend development, and I work across the frontend with HTML, CSS, and JavaScript. On mobile, I build with Flutter/Dart and Firebase, and I've integrated third-party APIs including Google Auth and Calendar into team projects.
+<div align="center">
+  <img src="./ascii 2.png" alt="Cognito, ergo code. (I code, therefore I am)" width="100%" />
+</div>
+
+I am a **Software Engineering Student at WeThinkCode_** focused on building full-stack web applications and cross-platform mobile experiences. I started with Python before moving into Java for backend development, and I work across the frontend with HTML, CSS, and JavaScript. On mobile, I build with Flutter/Dart and React Native (Expo), backed by Firebase and Supabase, and I've integrated third-party APIs including Google Auth and Calendar into team projects.
 
 * 🎓 **Education:** Software Engineering at WeThinkCode_
-* 🛠️ **Current Focus:** Deep-diving into Red Hat Linux administration, containerization, and clean software architecture.
+* 🛠️ **Current Focus:** Mobile Development and collaborating. I recently built **Fundazaka**, a personal project in React Native, purely for my own growth, while at WeThinkCode_ we are learning Flutter (Dart). Working across different frameworks has shown me that once you understand the logic, the skill is transferable.
 * 💡 **Design Approach:** Code should be as clean, structured, and intentional as the design system backing it.
+
+
 
 ---
 
@@ -48,27 +58,40 @@ I am a **Software Engineering Student at WeThinkCode_** focused on building full
 
 * **Software Engineering Principles:** OOP, Data Structures & Algorithms, Clean Code Architecture.
 * **Full-Stack Development:** RESTful web APIs, relational databases, persistence layers, HTML/CSS/JavaScript.
-* **Mobile Development:** Flutter, Dart, Firebase, cross-platform app design.
-* **Third-Party & Cloud Integrations:** Firebase, Google Auth & Calendar API, OpenAI API.
+* **Mobile Development:** Flutter, Dart, React Native, Expo, Firebase, cross-platform app design, translating Figma mockups into working screens.
+* **Authentication & Backend-as-a-Service:** Supabase email/password auth, secure environment configuration, session handling, Firebase.
+* **App Architecture & State:** File-based routing with Expo Router, local persistence with AsyncStorage, reusable shared components, onboarding and launch flows.
+* **Collaboration:** Shared environments across two developers, sprint-based delivery, Git workflow (issues, branches, pull requests).
+* **Third-Party & Cloud Integrations:** Firebase, Supabase, Google Auth & Calendar API, OpenAI API.
 * **DevOps & Pipeline Automation:** Docker containerization, CI/CD pipelines, Bash scripting automation.
 * **Testing & Quality:** Unit testing with JUnit and automated test scripts.
+####
+
+<div align="center">
+  <img src="./github-banner2.png" alt="Growth Mindset" width="100%" />
+</div>
 
 ---
 
-### 🎓 Red Hat & Community Learning Resources
+### 🎓 Learning and Community Resources
 
-I actively document my journey through enterprise infrastructure and Linux environments, building tests and hands-on material to help other developers learn.
+I document my journey through learning and create hands-on material to help other developers learn too.
 
-| Resource / Repository | Focus Area | Description |
-| :--- | :--- | :--- |
-| 🔴 **[Red Hat Linux RH024](https://github.com/Rachel-Huthwaite/redhat-linux-RH024)** | Linux SysAdmin & RH024 | RH024 course labs, system configuration notes, and CLI practice. |
+| Repository | Focus Area | Type | Description |
+| :--- | :--- | :--- | :--- |
+| 🔴 **[Red Hat Linux RH024](https://github.com/Rachel-Huthwaite/redhat-linux-RH024)** | Linux SysAdmin & RH024 | Community Resource | RH024 course labs, system configuration notes, and CLI practice. |
+| 📚 **[Dartpedia](https://github.com/Rachel-Huthwaite/dartpedia)** | Introduction to Dart | Learning Tutorial | A dedicated Dart learning project exploring language features, core utilities, and fundamental logic. Following the official Dart Documentation. |
+| 🐤 **[Birdle](https://github.com/Rachel-Huthwaite/birdle-flutter)** | Introduction to Flutter | Learning Tutorial | A Wordle-inspired guessing game built in Flutter following the official Flutter documentation track. Focuses on interactive UIs, dynamic keyboards, and state management. |
 
+<div align="center">
+  <img src="./Ascii Art 8.png" alt="Growth Mindset" width="100%" />
+</div>
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-<div align="center">
+<div align="left">
 
 **Languages & Mobile**
 <br />
@@ -80,7 +103,11 @@ I actively document my journey through enterprise infrastructure and Linux envir
 <img src="https://img.shields.io/badge/Dart-0075BA?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+---
 
 <br /><br />
 
@@ -93,6 +120,8 @@ I actively document my journey through enterprise infrastructure and Linux envir
 <img src="https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
+---
+
 <br /><br />
 
 **Tools & Environment**
@@ -101,8 +130,14 @@ I actively document my journey through enterprise infrastructure and Linux envir
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
+
+<div align="center">
+  <img src="./techstack-banner2.png" alt="Growth Mindset" width="100%" />
+</div>
+
 
 ---
 
@@ -111,26 +146,11 @@ I actively document my journey through enterprise infrastructure and Linux envir
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🐤 Birdle</h3>
-      <p align="center">A Wordle-inspired guessing game built in Flutter following the official Flutter documentation track. Focuses on interactive UIs, dynamic keyboards, and state management.</p>
+      <h3 align="center">💸 Fundazaka</h3>
+      <p align="center"><i>Contributed Project</i></p>
+      <p align="center">A mobile budgeting app for people with irregular income, built with a friend for the FNB App of the Year Hackathon. Built with React Native, Expo Router, and Supabase auth, with local persistence, a guided onboarding tour, and multi-language support.</p>
       <p align="center">
-        <a href="https://github.com/Rachel-Huthwaite/birdle-flutter"><code>View Repository</code></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Loadshedding Tracker</h3>
-      <p align="center">A dynamic utility app designed to track load shedding schedules, state changes, and user notifications. <i>(In Progress / Upgrading)</i></p>
-      <p align="center">
-        <a href="https://github.com/Rachel-Huthwaite/loadshedding-tracker"><code>View Repository</code></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 Dartpedia</h3>
-      <p align="center">A dedicated Dart learning project exploring language features, core utilities, and fundamental logic.</p>
-      <p align="center">
-        <a href="https://github.com/Rachel-Huthwaite/dartpedia"><code>View Repository</code></a>
+        <a href="https://github.com/Rachel-Huthwaite/fundazaka"><code>View Repository</code></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -141,7 +161,27 @@ I actively document my journey through enterprise infrastructure and Linux envir
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Loadshedding Tracker</h3>
+      <p align="center">A dynamic utility app designed to track load shedding schedules, state changes, and user notifications. <i>(In Progress / Upgrading)</i></p>
+      <p align="center">
+        <a href="https://github.com/Rachel-Huthwaite/loadshedding-tracker"><code>View Repository</code></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗂️ Sortly</h3>
+      <p align="center">A modular Python file-organisation tool that tidies cluttered folders by file type. Starting as a CLI, with a GUI and an AI-powered content-based organiser planned. <i>(In Progress)</i></p>
+      <p align="center">
+        <a href="https://github.com/Rachel-Huthwaite/sortly"><code>View Repository</code></a>
+      </p>
+    </td>
+  </tr>
 </table>
+
+<br />
+
+
 
 ---
 
